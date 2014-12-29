@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Aoife Ní Dhúnaigh"]
   spec.email         = ["aoife.n.nidhunaigh@gmail.com"]
   spec.summary       = ["a very simple gem"]
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/AoifeNiD/AoifesRoman"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
